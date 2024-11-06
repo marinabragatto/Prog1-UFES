@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <math.h>
+//oooiii
 
 int main(){
   int x;
